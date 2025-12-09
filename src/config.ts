@@ -71,35 +71,31 @@ export const EVENT_CONFIG = {
   
   // Schedule/Timeline
   schedule: [
-    {
-      time: '18:00',
-      activity: 'Doors Open',
-      description: 'Угтаж авах',
-    },
-    {
-      time: '18:30',
-      activity: 'Opening Speech',
-      description: 'Нээлтийн үг',
-    },
-    {
-      time: '19:00',
-      activity: 'Student Performances',
-      description: 'Оюутны үзүүлбэрүүд',
-    },
-    {
-      time: '20:30',
-      activity: 'Dance & DJ',
-      description: 'Dance floor opens with live DJ',
-    },
-    {
-      time: '22:30',
-      activity: 'Raffle & Closing',
-      description: 'Prize raffle draw and closing remarks',
-    },
-  ],
+  {
+    time: '18:00',
+    activity: 'Doors Open',
+    description: 'Угтаж авах',
+  },
+  {
+    time: '18:30',
+    activity: 'Dinner Time',
+    description: 'Хооллох',
+  },
+  {
+    time: '19:30',
+    activity: 'Fun Games',
+    description: 'Хөгжөөнт тоглоом',
+  },
+  {
+    time: '20:30',
+    activity: 'Free Time',
+    description: 'Чөлөөт цаг эхэлнэ',
+  },
+],
+
   
   // Dress Code
-  dressCode: 'Өөрт тухтай хүссэн хувцасаа өмсөөд ирээрэй!',
+  dressCode: 'Өөрт тухтай хүссэн хувцасаа өмсөөд ирээрэй 😊',
   
   // SEO & Meta
   siteTitle: 'New Year Party 2026 - Software, IT & IS',

@@ -67,7 +67,7 @@ export const Hero: React.FC<HeroProps> = ({ onCtaClick }) => {
 
         {/* Subtitle */}
         <p className="text-xl sm:text-2xl text-yellow-100 mb-4 font-semibold">
-            программ хангамж, мэдээллийн технологи, мэдээллийн системийн оюутнуудын шинэ жилийн баярт урьж байна!
+            Программ хангамж, Мэдээллийн технологи, Мэдээллийн системийн оюутнуудын шинэ жилийн баярт урьж байна!
         </p>
 
         {/* Tagline */}

@@ -67,23 +67,18 @@ export const EVENT_CONFIG = {
         },
         {
             time: '18:30',
-            activity: 'Opening Speech',
-            description: 'Нээлтийн үг',
+            activity: 'Dinner Time',
+            description: 'Хооллох',
         },
         {
-            time: '19:00',
-            activity: 'Student Performances',
-            description: 'Оюутны үзүүлбэрүүд',
+            time: '19:30',
+            activity: 'Fun Games',
+            description: 'Хөгжөөнт тоглоом',
         },
         {
             time: '20:30',
-            activity: 'Dance & DJ',
-            description: 'Dance floor opens with live DJ',
-        },
-        {
-            time: '22:30',
-            activity: 'Raffle & Closing',
-            description: 'Prize raffle draw and closing remarks',
+            activity: 'Free Time',
+            description: 'Чөлөөт цаг эхэлнэ',
         },
     ],
     // Dress Code
