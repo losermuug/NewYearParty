@@ -82,7 +82,7 @@ export const EVENT_CONFIG = {
         },
     ],
     // Dress Code
-    dressCode: 'Өөрт тухтай хүссэн хувцасаа өмсөөд ирээрэй!',
+    dressCode: 'Өөрт тухтай хүссэн хувцасаа өмсөөд ирээрэй 😊',
     // SEO & Meta
     siteTitle: 'New Year Party 2026 - Software, IT & IS',
     siteDescription: 'Join us for the New Year Party celebrating Software Engineering, IT, and Information Systems departments on January 20, 2026.',

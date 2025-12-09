@@ -1,6 +1,7 @@
 import { Hero } from './components/Hero'
 import { EventDetails } from './components/EventDetails'
 import { Schedule } from './components/Schedule'
+import { Gallery } from './components/Gallery'
 import { Footer } from './components/Footer'
 import { GlobalSnow } from './components/GlobalSnow'
 import { EVENT_CONFIG } from './config'
@@ -20,6 +21,7 @@ function App() {
         <Hero onCtaClick={handleHeroCtaClick} />
         <EventDetails />
         <Schedule />
+        <Gallery />
       </main>
       <Footer />
     </>
