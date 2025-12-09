@@ -18,7 +18,6 @@ export const Footer: React.FC = () => {
         {/* Bottom */}
         <div className="flex flex-col md:flex-row justify-between items-center text-sm text-slate-400">
           <p>&copy; {currentYear} New Year Party. All rights reserved.</p>
-          <p>Made with ❤️ by the organizing departments</p>
         </div>
 
         {/* Accessibility Notice */}
